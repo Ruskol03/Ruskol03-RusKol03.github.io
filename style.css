@@ -1299,7 +1299,7 @@ table {
         height: 24px;
     }
     .card .wrapForm form button{
-        height: 25px;
+        height: 27px;
     }
     .card .wrapForm form select{
         height: 24px;
@@ -1352,7 +1352,8 @@ table {
 
 
 
-
+        justify-content: space-between;
+        align-items: center;
         width: 100vw;
         height: 100vh;
         margin-top: -50vh;
@@ -1363,7 +1364,7 @@ table {
     }
 
     .card img {
-
+        width: 85%;
         object-fit: cover;
         object-position: 50% 100%;
     }
@@ -1371,7 +1372,7 @@ table {
     .card .wrapForm {
 
         margin-left: 0px;
-        padding-bottom: 0px;
+        padding-bottom: 45px;
         padding-top: 0;
     }
 
@@ -1381,15 +1382,18 @@ table {
 
     
 
-    .card .wrapFormP .oldPrice {
-        font-size: 10px;
+    .card .wrapForm .cardWrapP .oldPrice {
+        font-size: 15px;
         margin-left: 0px;
 
     }
 
-    .card .wrapFormP .newPrice {
-        font-size: 10px;
+    .card .wrapForm .cardWrapP .newPrice {
+        font-size: 20px;
         margin-left: 0px;
 
+    }
+    .catalogWrapper .item{
+       margin-right: 0;
     }
 }
