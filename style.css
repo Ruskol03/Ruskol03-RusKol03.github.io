@@ -51,14 +51,9 @@ fieldset,
 form,
 label,
 legend,
-table,
+
 caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
+
 article,
 aside,
 canvas,
@@ -123,10 +118,6 @@ q:after {
     content: none;
 }
 
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
 
 
 
