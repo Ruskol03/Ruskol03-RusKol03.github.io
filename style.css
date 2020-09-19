@@ -1364,7 +1364,7 @@ table {
     }
 
     .card img {
-        width: 70%;
+        width: 60%;
         object-fit: cover;
         object-position: 50% 100%;
     }
@@ -1372,7 +1372,7 @@ table {
     .card .wrapForm {
 
         margin-left: 0px;
-        padding-bottom: 95px;
+        margin-bottom:  95px;
         padding-top: 0;
     }
 
