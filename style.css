@@ -1299,7 +1299,7 @@ table {
         height: 24px;
     }
     .card .wrapForm form button{
-        height: 27px;
+        height: 30px;
     }
     .card .wrapForm form select{
         height: 24px;
@@ -1313,7 +1313,7 @@ table {
         margin-left: -150px;
     }
     .card img{
-        width: 100%;
+        width: 80%;
     }
     .card .wrapForm{
         margin-left: 0;
@@ -1364,7 +1364,7 @@ table {
     }
 
     .card img {
-        width: 85%;
+        width: 70%;
         object-fit: cover;
         object-position: 50% 100%;
     }
@@ -1372,7 +1372,7 @@ table {
     .card .wrapForm {
 
         margin-left: 0px;
-        padding-bottom: 45px;
+        padding-bottom: 95px;
         padding-top: 0;
     }
 
